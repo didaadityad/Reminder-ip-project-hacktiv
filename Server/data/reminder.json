@@ -1,0 +1,22 @@
+[
+    { 
+        "name": "Pilek",
+        "UserId": 1
+    },
+    { 
+        "name": "Obat rutin",
+        "UserId": 1
+    },
+    { 
+        "name": "Obat nyeri",
+        "UserId": 1
+    },
+    { 
+        "name": "Obat Pinggang",
+        "UserId": 2
+    },
+    { 
+        "name": "Flu",
+        "UserId": 2
+    }
+]
